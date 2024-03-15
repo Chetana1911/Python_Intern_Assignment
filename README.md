@@ -18,4 +18,4 @@
 3. Mongodb Altas is used as DB here, with pymongo library mongodb is connected to python.
 4. Database and collections created via python and the list of dictionaries is uploaded using collection.insert_many method.
 5. Created an app.py to initialize
-6. Python_Intern_Assignment/README.md at main · Adarsh7697/Python_Intern_Assignment 
+
